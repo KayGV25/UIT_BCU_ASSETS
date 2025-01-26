@@ -1,0 +1,2 @@
+A4790000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../openssl-3.3.0/crypto/bio/bio_addr.c:758:No such host is known. 
+connect:errno=11001

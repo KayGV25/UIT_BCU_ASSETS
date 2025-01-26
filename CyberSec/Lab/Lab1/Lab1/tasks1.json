@@ -1,0 +1,36 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Executable with GCC",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-I", "C:\\include\\openssl",
+                "-L", "C:\\lib\\openssl\\gcc",
+                "-o", "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "${file}",
+                "-l:libssl.a", "-l:libcrypto.a",
+                "-lws2_32", "-lcrypt32", "-luser32"
+            ],
+            "group": { "kind": "build", "isDefault": true },
+            "problemMatcher": ["$gcc"]
+        },
+        {
+            "label": "Build DLL with GCC",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-I", "C:\\include\\openssl",
+                "-L", "C:\\lib\\openssl\\gcc",
+                "-shared",  // Create shared library (DLL)
+                "-o", "${fileDirname}\\${fileBasenameNoExtension}.dll",
+                "${file}",
+                "-l:libssl.a", "-l:libcrypto.a",
+                "-lws2_32", "-lcrypt32", "-luser32"
+            ],
+            "group": { "kind": "build", "isDefault": false },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}

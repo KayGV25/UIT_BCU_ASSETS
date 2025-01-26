@@ -1,0 +1,7 @@
+Connecting to 104.90.7.178
+depth=1 C=BE, O=GlobalSign nv-sa, CN=GlobalSign RSA OV SSL CA 2018
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 C=VN, ST=Ha Noi, L=Ha Noi, O=JOINT STOCK COMMERCIAL BANK FOR FOREIGN TRADE OF VIETNAM, CN=*.vietcombank.com.vn
+verify return:1
+DONE

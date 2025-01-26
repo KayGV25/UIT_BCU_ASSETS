@@ -1,0 +1,8 @@
+Connecting to 10.204.2.4
+depth=2 C=US, ST=New Jersey, L=Jersey City, O=The USERTRUST Network, CN=USERTrust ECC Certification Authority
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=1 C=GB, ST=Greater Manchester, L=Salford, O=Sectigo Limited, CN=Sectigo ECC Domain Validation Secure Server CA
+verify return:1
+depth=0 CN=*.uit.edu.vn
+verify return:1
