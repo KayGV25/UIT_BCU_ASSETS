@@ -1,0 +1,922 @@
+{
+                "0": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 63960.08102827072,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 63960.08102827072,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 2.1334392166815896
+                },
+                "1": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 9762839.3,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 159611.8403,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 5.323979489522946
+                },
+                "2": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 47.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 62.900000000000006,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0020980793734447865
+                },
+                "3": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 255.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 255.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.008505727189641024
+                },
+                "4": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 5872025.6000000015,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 155721.0266,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 5.194198313531111
+                },
+                "5": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 5872025.6000000015,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 155721.0266,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 5.194198313531111
+                },
+                "6": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0050837505582549,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.00355862539078,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010007924877881368
+                },
+                "7": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "8": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "9": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "10": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "11": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "12": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001000673787016591
+                },
+                "13": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001000673787016591
+                },
+                "14": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 5.7,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 33.99000000000001,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001133763400689798
+                },
+                "15": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 8.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 35.60000000000001,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0011874662272596886
+                },
+                "16": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 70.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 79.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.00263510763914369
+                },
+                "17": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 3066.5,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 3066.5,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.1022855389295459
+                },
+                "18": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 9006.5,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 9006.5,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.30041894875883096
+                },
+                "19": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "20": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "21": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "22": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001000673787016591
+                },
+                "23": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001000673787016591
+                },
+                "24": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "25": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001000673787016591
+                },
+                "26": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "27": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "28": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001000673787016591
+                },
+                "29": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "30": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "31": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "32": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "33": {
+                                "method": "shrink_outliers",
+                                "original_min": 66.0,
+                                "original_max": 62865.8,
+                                "adjusted_min": 76.2,
+                                "adjusted_max": 62865.8,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 2.0969386053275874
+                },
+                "34": {
+                                "method": "shrink_outliers",
+                                "original_min": 42.0,
+                                "original_max": 3106.8,
+                                "adjusted_min": 59.400000000000006,
+                                "adjusted_max": 3106.8,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.10362977738343819
+                },
+                "35": {
+                                "method": "shrink_outliers",
+                                "original_min": 42.0,
+                                "original_max": 17442.0,
+                                "adjusted_min": 59.400000000000006,
+                                "adjusted_max": 17442.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.5817917397714462
+                },
+                "36": {
+                                "method": "shrink_outliers",
+                                "original_min": 42.0,
+                                "original_max": 5554.52988095238,
+                                "adjusted_min": 59.400000000000006,
+                                "adjusted_max": 5554.52988095238,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.1852757483689811
+                },
+                "37": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 4763.935410808286,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 4763.935410808286,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.15890484295453225
+                },
+                "38": {
+                                "method": "shrink_outliers",
+                                "original_min": 42.0,
+                                "original_max": 5091.6,
+                                "adjusted_min": 59.400000000000006,
+                                "adjusted_max": 5091.6,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.16983435513245587
+                },
+                "39": {
+                                "method": "shrink_outliers",
+                                "original_min": 8.106231689453125e-07,
+                                "original_max": 167639429.98585662,
+                                "adjusted_min": 30.000000567436217,
+                                "adjusted_max": 317488.4309858566,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 10.59007835228576
+                },
+                "40": {
+                                "method": "shrink_outliers",
+                                "original_min": 1.0,
+                                "original_max": 15.0,
+                                "adjusted_min": 30.700000000000003,
+                                "adjusted_max": 40.50000000000001,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0013509096124723983
+                },
+                "41": {
+                                "method": "shrink_outliers",
+                                "original_min": 9.16515138991168,
+                                "original_max": 102.95688704600202,
+                                "adjusted_min": 36.41560597293818,
+                                "adjusted_max": 102.95688704600202,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0034342086019920753
+                },
+                "42": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 6745.75669911561,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 6745.75669911561,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.22501006341321858
+                },
+                "43": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 22789356.83925902,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 172638.35783925903,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 5.758489310777891
+                },
+                "44": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "45": {
+                                "method": "shrink_outliers",
+                                "original_min": 1.0,
+                                "original_max": 244.6,
+                                "adjusted_min": 30.700000000000003,
+                                "adjusted_max": 244.6,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.008158826943475273
+                },
+                "0": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 63960.08102827072,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 63960.08102827072,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 2.1334392166815896
+                },
+                "1": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 9762839.3,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 159611.8403,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 5.323979489522946
+                },
+                "2": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 47.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 62.900000000000006,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0020980793734447865
+                },
+                "3": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 255.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 255.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.008505727189641024
+                },
+                "4": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 5872025.6000000015,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 155721.0266,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 5.194198313531111
+                },
+                "5": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 5872025.6000000015,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 155721.0266,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 5.194198313531111
+                },
+                "6": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0050837505582549,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.00355862539078,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010007924877881368
+                },
+                "7": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "8": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "9": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "10": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "11": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "12": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001000673787016591
+                },
+                "13": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001000673787016591
+                },
+                "14": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 5.7,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 33.99000000000001,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001133763400689798
+                },
+                "15": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 8.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 35.60000000000001,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0011874662272596886
+                },
+                "16": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 70.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 79.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.00263510763914369
+                },
+                "17": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 3066.5,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 3066.5,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.1022855389295459
+                },
+                "18": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 9006.5,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 9006.5,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.30041894875883096
+                },
+                "19": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "20": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "21": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "22": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001000673787016591
+                },
+                "23": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001000673787016591
+                },
+                "24": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "25": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001000673787016591
+                },
+                "26": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "27": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "28": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 0.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.001000673787016591
+                },
+                "29": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "30": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "31": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "32": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "33": {
+                                "method": "shrink_outliers",
+                                "original_min": 66.0,
+                                "original_max": 62865.8,
+                                "adjusted_min": 76.2,
+                                "adjusted_max": 62865.8,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 2.0969386053275874
+                },
+                "34": {
+                                "method": "shrink_outliers",
+                                "original_min": 42.0,
+                                "original_max": 3106.8,
+                                "adjusted_min": 59.400000000000006,
+                                "adjusted_max": 3106.8,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.10362977738343819
+                },
+                "35": {
+                                "method": "shrink_outliers",
+                                "original_min": 42.0,
+                                "original_max": 17442.0,
+                                "adjusted_min": 59.400000000000006,
+                                "adjusted_max": 17442.0,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.5817917397714462
+                },
+                "36": {
+                                "method": "shrink_outliers",
+                                "original_min": 42.0,
+                                "original_max": 5554.52988095238,
+                                "adjusted_min": 59.400000000000006,
+                                "adjusted_max": 5554.52988095238,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.1852757483689811
+                },
+                "37": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 4763.935410808286,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 4763.935410808286,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.15890484295453225
+                },
+                "38": {
+                                "method": "shrink_outliers",
+                                "original_min": 42.0,
+                                "original_max": 5091.6,
+                                "adjusted_min": 59.400000000000006,
+                                "adjusted_max": 5091.6,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.16983435513245587
+                },
+                "39": {
+                                "method": "shrink_outliers",
+                                "original_min": 8.106231689453125e-07,
+                                "original_max": 167639429.98585662,
+                                "adjusted_min": 30.000000567436217,
+                                "adjusted_max": 317488.4309858566,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 10.59007835228576
+                },
+                "40": {
+                                "method": "shrink_outliers",
+                                "original_min": 1.0,
+                                "original_max": 15.0,
+                                "adjusted_min": 30.700000000000003,
+                                "adjusted_max": 40.50000000000001,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0013509096124723983
+                },
+                "41": {
+                                "method": "shrink_outliers",
+                                "original_min": 9.16515138991168,
+                                "original_max": 102.95688704600202,
+                                "adjusted_min": 36.41560597293818,
+                                "adjusted_max": 102.95688704600202,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0034342086019920753
+                },
+                "42": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 6745.75669911561,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 6745.75669911561,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.22501006341321858
+                },
+                "43": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 22789356.83925902,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 172638.35783925903,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 5.758489310777891
+                },
+                "44": {
+                                "method": "shrink_outliers",
+                                "original_min": 0.0,
+                                "original_max": 1.0,
+                                "adjusted_min": 30.0,
+                                "adjusted_max": 30.700000000000003,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.0010240228420469785
+                },
+                "45": {
+                                "method": "shrink_outliers",
+                                "original_min": 1.0,
+                                "original_max": 244.6,
+                                "adjusted_min": 30.700000000000003,
+                                "adjusted_max": 244.6,
+                                "lower_bound": 100,
+                                "upper_bound": 149999,
+                                "k_neighbor": 0.008158826943475273
+                }
+}
